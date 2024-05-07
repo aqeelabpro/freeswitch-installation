@@ -7,7 +7,8 @@
 
 Go to https://mentor.signalwire.com/dashboard and scroll Down to ``` Personal Access Token ```
 
-<img width="1440" alt="signalwire_pat" src="https://github.com/aqeelabpro/freeswitch-installation/assets/93031839/84b2ef84-be89-48eb-bee5-df1a01ae60ab">
+<img width="1440" alt="signalwire_pat" src="https://github.com/aqeelabpro/freeswitch-installation/assets/93031839/17c6b75d-b950-46df-a856-1da481165e82">  
+
 
 ```
 TOKEN=pat_7ktLy6Yymytokenhere23232
