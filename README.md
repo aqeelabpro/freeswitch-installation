@@ -11,7 +11,7 @@ Go to https://mentor.signalwire.com/dashboard and scroll Down to ``` Personal Ac
 
 
 ```
-TOKEN=pat_7ktLy6Yymytokenhere23232
+TOKEN=pat_FUpmJtRf8ZVBuaAhKP2AyERK 
 apt-get update && apt-get install -yq gnupg2 wget lsb-release
 wget --http-user=signalwire --http-password=$TOKEN -O /usr/share/keyrings/signalwire-freeswitch-repo.gpg https://freeswitch.signalwire.com/repo/deb/debian-release/signalwire-freeswitch-repo.gpg
 echo "machine freeswitch.signalwire.com login signalwire password $TOKEN" > /etc/apt/auth.conf
